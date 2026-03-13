@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+scikit-learn
+numpy
+openai
+pyttsx3
+faster-whisper
+torch
